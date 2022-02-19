@@ -1,2 +1,2 @@
 # css-resets
-CSS Reset`s
+CSS Reset's
