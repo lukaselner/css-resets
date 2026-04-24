@@ -1,4 +1,4 @@
-# CSS Resets
+# CSS - CSS Resets
 
 A simple CSS reset file for unifying the default appearance across browsers.
 
