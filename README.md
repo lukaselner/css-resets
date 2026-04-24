@@ -1,25 +1,25 @@
 # CSS Resets
 
-Jednoduchý CSS reset soubor pro sjednocení výchozího vzhledu napříč prohlížeči.
+A simple CSS reset file for unifying the default appearance across browsers.
 
-## Ukázka
+## Demo
 
-Živá ukázka na CodePen: https://codepen.io/lukaselner/pen/QWOmymZ
+Live example on CodePen: https://codepen.io/lukaselner/pen/QWOmymZ
 
-## Použití
+## Usage
 
-Stačí soubor `resets.css` připojit do projektu jako první CSS soubor, ještě před vlastními styly:
+Include the `resets.css` file in your project as the first stylesheet, before your own styles:
 
 ​```html
 <link rel="stylesheet" type="text/css" href="resets.css" media="screen">
 ​```
 
-## Autor
+## Author
 
 **Lukáš Elner**
 - E-mail: lukas@elner.cz
 - Web: [lukas.elner.cz](https://www.lukaselner.cz)
 
-## Licence
+## License
 
-Tento projekt je licencován pod **GNU General Public License v3.0** — podrobnosti viz soubor [LICENSE](LICENSE) nebo [gnu.org/licenses/gpl-3.0](https://www.gnu.org/licenses/gpl-3.0.html).
+This project is licensed under the **GNU General Public License v3.0** — see the [LICENSE](LICENSE) file or [gnu.org/licenses/gpl-3.0](https://www.gnu.org/licenses/gpl-3.0.html) for details.
