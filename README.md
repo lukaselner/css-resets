@@ -10,15 +10,13 @@ Live example on CodePen: https://codepen.io/lukaselner/pen/QWOmymZ
 
 Include the `resets.css` file in your project as the first stylesheet, before your own styles:
 
-​```html
-<link rel="stylesheet" type="text/css" href="resets.css" media="screen">
-​```
+​`<link rel="stylesheet" type="text/css" href="resets.css" media="screen">`
 
 ## Author
 
 **Lukáš Elner**
 - E-mail: lukas@elner.cz
-- Web: [lukas.elner.cz](https://www.lukaselner.cz)
+- Web: [lukaselner.cz](https://www.lukaselner.cz)
 
 ## License
 
