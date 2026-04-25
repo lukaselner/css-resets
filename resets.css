@@ -40,7 +40,3 @@ body {
 html, body {
 	height: 100%;
 }
-table {
-	table-layout: auto;
-	border-collapse: collapse;
-}
