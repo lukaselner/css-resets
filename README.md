@@ -16,7 +16,7 @@ Include the `resets.css` file in your project as the first stylesheet, before yo
 
 **Lukáš Elner**
 - E-mail: lukas@elner.cz
-- Web: [lukaselner.cz](https://www.lukaselner.cz)
+- Web: [lukaselner.cz](https://www.lukaselner.cz) {:target="_blank"}
 
 ## License
 
