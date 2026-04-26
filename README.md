@@ -1,10 +1,10 @@
-# CSS - CSS Resets
+# CSS - CSS resets
 
 A simple CSS reset file for unifying the default appearance across browsers.
 
 ## Demo
 
-Live example on CodePen: https://codepen.io/lukaselner/pen/QWOmymZ
+Live example on CodePen: [codepen.io/lukaselner/pen/QWOmymZ](https://codepen.io/lukaselner/pen/QWOmymZ)
 
 ## Usage
 
@@ -16,7 +16,7 @@ Include the `resets.css` file in your project as the first stylesheet, before yo
 
 **Lukáš Elner**
 - E-mail: lukas@elner.cz
-- Web: [lukaselner.cz](https://www.lukaselner.cz) {:target="_blank"}
+- Web: [lukaselner.cz](https://www.lukaselner.cz)
 
 ## License
 
