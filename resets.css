@@ -3,7 +3,7 @@ CSS resets
 Author: Lukas Elner
 E-mail: lukas@elner.cz
 Web: www.lukaselner.cz
-Revision: 0.3
+Revision: 0.4
 
 Copyright (C) 2026 Lukas Elner
 
@@ -20,13 +20,15 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program. If not, see <https://www.gnu.org/licenses/>.
 */
-* {
-	padding: 0;
-	margin: 0;
-	border: 0;
+*, *::before, *::after {
 	box-sizing: border-box;
 }
-*:focus {
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+:focus:not(:focus-visible) {
 	outline: none;
 }
 html {
@@ -36,7 +38,5 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 12px;
 	color: #000;
-}
-html, body {
-	height: 100%;
+	min-height: 100dvh;
 }
